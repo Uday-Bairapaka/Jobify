@@ -3,7 +3,7 @@ import React from 'react';
 const AllJobs = () => {
   return (
     <div>
-      <h1>All Jobs</h1>
+      <h1>Admin</h1>
     </div>
   );
 };
